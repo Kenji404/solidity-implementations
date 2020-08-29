@@ -1,0 +1,2 @@
+You can interact with this smart contract using Remix IDE and MetaMask conected to the TESTENET Ropsten Ethereum's Blockchain.
+Ropsten TESTNET contract address: 0x0224e1479f864f331969bb0203b58ee40c801ee7
