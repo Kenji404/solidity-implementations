@@ -1,4 +1,4 @@
-This smart contract allows you to save any number using the functions below:
+This smart contract allows you to store any number you'd like using the functions below:
 
 
 
